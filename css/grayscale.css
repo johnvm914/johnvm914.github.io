@@ -4,6 +4,9 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
+#portfolio, #contact {
+  background-image: url("../img/rainbow_texture679.jpg")
+}
 
 body {
   width: 100%;
@@ -41,7 +44,7 @@ p {
   }
 }
 a {
-  color: #42DCA3;
+  color: aqua;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
@@ -49,7 +52,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #1d9b6c;
+  color: yellow;
 }
 .light {
   font-weight: 400;
